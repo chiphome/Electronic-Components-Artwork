@@ -1,7 +1,6 @@
 电子元器件艺术品
 
 ![image](https://github.com/chiphome/Electronic-Components-Artwork/blob/master/1.jpg)
-![image](https://github.com/chiphome/Electronic-Components-Artwork/blob/master/4.jpg)
 ![image](https://github.com/chiphome/Electronic-Components-Artwork/blob/master/5.jpg)
 ![image](https://github.com/chiphome/Electronic-Components-Artwork/blob/master/6.jpg)
 ![image](https://github.com/chiphome/Electronic-Components-Artwork/blob/master/7.jpg)
@@ -11,6 +10,7 @@
 ![image](https://github.com/chiphome/Electronic-Components-Artwork/blob/master/16.jpg)
 ![image](https://github.com/chiphome/Electronic-Components-Artwork/blob/master/26.jpg)
 ![image](https://github.com/chiphome/Electronic-Components-Artwork/blob/master/27.jpg)
+![image](https://github.com/chiphome/Electronic-Components-Artwork/blob/master/39.jpg)
 ![image](https://github.com/chiphome/Electronic-Components-Artwork/blob/master/43.jpg)
 ![image](https://github.com/chiphome/Electronic-Components-Artwork/blob/master/44.jpg)
 ![image](https://github.com/chiphome/Electronic-Components-Artwork/blob/master/45.jpg)
